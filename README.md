@@ -7,4 +7,4 @@ Demo Jenkins for #devops-101 channel of our slack group
 
 - Jenkins Docker Image: https://hub.docker.com/r/denny/jenkins_image/
 
-Join Slack: https://goo.gl/ozDDyL
+Join Slack: https://www.dennyzhang.com/slack
